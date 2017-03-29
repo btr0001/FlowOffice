@@ -1,0 +1,26 @@
+<!--
+###########################################################################################
+##      Created using Monkey Studio IDE v1.9.0.4 (1.9.0.4)
+##
+##  Author    : You Name <your@email.org>
+##  Project   : My PyQt4 QtCore Project
+##  FileName  : My PyQt4 QtCore Project.xpythonqt
+##  Date      : 2016-07-28T10:18:06
+##  License   : GPL
+##  Comment   : Creating using Monkey Studio RAD
+##  Home Page : http://www.mydomain.org
+##
+##  This file is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE
+##  WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+##
+###########################################################################################
+-->
+<!DOCTYPE XUPProject>
+<project name="My PyQt4 QtCore Project" version="1.1.0" >
+    <variable name="XUP.MAIN_FILE">
+        <value>src/main.py</value>
+    </variable>
+    <variable name="PYTHON_FILES" >
+        <file>src/main.py</file>
+    </variable>
+</project>
